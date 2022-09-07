@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuooo&layout=compact)](https://github.com/xiaohuooo)
 
-![xiaohuooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuooo&show_icons=true&theme=tokyonight)
+![xiaohuooo GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuooo&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
