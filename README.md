@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=CSDN&logoColor=white&link=https://twitter.com/a1124851454)](https://twitter.com/a1124851454)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1124851454@gmail.com)](mailto:a1124851454@gmail.com)
 [![BiliBili](https://img.shields.io/badge/-BiliBili-00A0D8?style=flat-square&link=https://space.bilibili.com/12167681)](https://space.bilibili.com/12167681)
-[![NetEase Music](https://img.shields.io/badge/-NetEase%20Music-E20000?style=flat-square&https://music.163.com/#/user/home?id=69696518)](https://music.163.com/#/user/home?id=69696518)
+[![NetEase Music](https://img.shields.io/badge/-NetEase%20Music-E20000?style=flat-square&https://music.163.com/#/user/home?id=510543324)](https://music.163.com/#/user/home?id=510543324)
 
 ## 🛠️ Tools
 
