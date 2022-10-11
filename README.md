@@ -29,10 +29,12 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-![xiaohuooo GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuooo&show_icons=true&theme=tokyonight)
+
 
 
 <!--
+![xiaohuooo GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuooo&show_icons=true&theme=tokyonight)
+
 My ![Visitor Count](https://profile-counter.glitch.me/xiaohuooo/count.svg) visitor
 **xiaohuooo/xiaohuooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
