@@ -17,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&link=https://github.com/xiaohuooo)](https://github.com/xiaohuooo)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=CSDN&logoColor=white&link=https://twitter.com/a1124851454)](https://twitter.com/a1124851454)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1124851454@gmail.com)](mailto:a1124851454@gmail.com)
-[![Csdn](https://img.shields.io/badge/-Csdn-00A0D8?style=flat-square&link=https://blog.csdn.net/qq_55172460?spm=1000.2115.3001.5343)](https://space.bilibili.com/12167681)
+[![Csdn](https://img.shields.io/badge/-Csdn-00A0D8?style=flat-square&link=https://blog.csdn.net/qq_55172460?spm=1000.2115.3001.5343)](https://blog.csdn.net/qq_55172460?spm=1000.2115.3001.5343)
 [![NetEase Music](https://img.shields.io/badge/-NetEase%20Music-E20000?style=flat-square&https://music.163.com/#/user/home?id=510543324)](https://music.163.com/#/user/home?id=510543324)
 
 ## 🛠️ Tools
