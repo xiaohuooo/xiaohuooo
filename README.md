@@ -2,7 +2,7 @@
 
 # Hi there, I'm Xiaohu 👋👾 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="vertical-align: middle;">
-
+<!--
 ## 💻 Know/Using
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -32,7 +32,7 @@
 
 
 
-<!--
+
 ![xiaohuooo GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuooo&show_icons=true&theme=tokyonight)
 
 My ![Visitor Count](https://profile-counter.glitch.me/xiaohuooo/count.svg) visitor
