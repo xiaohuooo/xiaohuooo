@@ -2,6 +2,16 @@
 
 # Hi there, I'm Xiaohu 👋👾 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="vertical-align: middle;">
+<br />
+<div>
+  <a href="https://github.com/xiaohuooo/xiaohuooo"> 
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaohuooo&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/xiaohuooo/xiaohuooo"> 
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuooo&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
 <!--
 ## 💻 Know/Using
 
