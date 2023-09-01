@@ -14,8 +14,8 @@
 
 --- 
 ### 😤Hard things must be rewarded
-![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/b61db3a5dad850b03d29ccd48f1a01a6856c72d1/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/b61db3a5dad850b03d29ccd48f1a01a6856c72d1/github-contribution-grid-snake.svg#gh-light-mode-only)
+![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/fd3a4dd145d9961a588b916b1133d8fa9248636c/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/fd3a4dd145d9961a588b916b1133d8fa9248636c/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <!--
