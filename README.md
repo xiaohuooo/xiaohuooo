@@ -13,8 +13,8 @@
 </div>
 
 ### 😤Hard things must be rewarded
-![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only)
+![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/b61db3a5dad850b03d29ccd48f1a01a6856c72d1/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/b61db3a5dad850b03d29ccd48f1a01a6856c72d1/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <!--
