@@ -5,13 +5,14 @@
 <br />
 <div>
   <a href="https://github.com/xiaohuooo/xiaohuooo"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaohuooo&count_private=true&show_icons=true&theme=dracula" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaohuooo&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/xiaohuooo/xiaohuooo"> 
     <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuooo&show_icons=true&layout=compact&theme=dracula"/>
   </a>
 </div>
 
+--- 
 ### 😤Hard things must be rewarded
 ![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/b61db3a5dad850b03d29ccd48f1a01a6856c72d1/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![TOG](https://raw.githubusercontent.com/xiaohuooo/githubSNK/b61db3a5dad850b03d29ccd48f1a01a6856c72d1/github-contribution-grid-snake.svg#gh-light-mode-only)
