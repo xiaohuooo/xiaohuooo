@@ -1,6 +1,5 @@
 
-<p align="center"><a href="https://xiaohuooo.github.io"><img width="80%" alt="Hi there, I'm Xiaohu 👋👾" src="./assets/gh-readme-header.png" /></a></p>
-<br />
+# Hi there, I'm Xiaohu 👋👾
 <a href="https://github.com/xiaohuooo"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="vertical-align: middle;">
 <br />
