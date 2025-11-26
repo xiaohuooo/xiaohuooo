@@ -1,6 +1,7 @@
-
-# Hi there, I'm Xiaohu 👋👾
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 <a href="https://github.com/xiaohuooo"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
+</p>
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="vertical-align: middle;">
 <br />
 <div>
@@ -11,8 +12,6 @@
     <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuooo&show_icons=true&layout=compact&theme=dracula"/>
   </a>
 </div>
-
-
 
 --- 
 <!--
