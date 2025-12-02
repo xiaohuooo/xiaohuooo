@@ -5,12 +5,19 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="vertical-align: middle;">
 <br />
 <div>
-  <a href="https://github.com/xiaohuooo/xiaohuooo"> 
-    <img height="160px" src="https://github-readme-stats-macora.vercel.app/api?username=xiaohuooo&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/xiaohuooo/xiaohuooo"> 
-    <img align="right"  height="160px" src="https:/github-readme-stats-macora.vercel.app/api/top-langs/?username=xiaohuooo&show_icons=true&layout=compact&theme=dracula"/>
-  </a>
+    <a href="https://github.com/xiaohuooo/xiaohuooo">
+      <img
+        height="160px"
+        src="https://github-readme-stats-macora.vercel.app/api?username=xiaohuooo&count_private=true&show_icons=true&theme=dracula"
+      />
+    </a>
+    <a href="https://github.com/xiaohuooo/xiaohuooo">
+      <img
+        align="right"
+        height="160px"
+        src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=xiaohuooo&show_icons=true&theme=dracula&layout=compact"
+      />
+    </a>
 </div>
 
 --- 
