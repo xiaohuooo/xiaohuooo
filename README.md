@@ -15,7 +15,7 @@
       <img
         align="right"
         height="160px"
-        src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=xiaohuooo&show_icons=true&theme=dracula&layout=compact"
+        src="https://github-readme-stats-macora.vercel.app/api/top-langs/?username=xiaohuooo&show_icons=true&theme=dracula&layout=compact"
       />
     </a>
 </div>
